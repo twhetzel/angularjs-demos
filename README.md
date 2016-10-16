@@ -7,3 +7,6 @@ Demonstrates how to change the delimiter notation for Angular and how to read re
 Usage: </br>
 `python angular-flask-app.py`
 
+</br>
+Dependencies: </br>
+View app using Chrome with CORS enabled using the plugin "Allow-Control-Allow-Origin: *". 
